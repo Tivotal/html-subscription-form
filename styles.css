@@ -23,9 +23,11 @@ body {
   width: 320px;
   height: fit-content;
   background: #fff;
-  box-shadow: 0 187px 75px rgba(0, 0, 0, 0.01), 0 105px 63px rgba(0, 0, 0, 0.05),
-    0 47px 47px rgba(0, 0, 0, 0.09), 0 12px 26px rgba(0, 0, 0, 0.1),
-    0 0 0 rgba(0, 0, 0, 0.1);
+  box-shadow: 0 187px 75px rgba(0, 0, 0, 0.01), 
+              0 105px 63px rgba(0, 0, 0, 0.05),
+              0 47px 47px rgba(0, 0, 0, 0.09), 
+              0 12px 26px rgba(0, 0, 0, 0.1),
+              0 0 0 rgba(0, 0, 0, 0.1);
   border-radius: 15px;
 }
 
@@ -45,7 +47,8 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  box-shadow: 0 0.5px 0.5px #efefef, 0 1px 0.5px rgba(239, 239, 239, 0.5);
+  box-shadow: 0 0.5px 0.5px #efefef, 
+              0 1px 0.5px rgba(239, 239, 239, 0.5);
 }
 
 form .text {
@@ -90,8 +93,11 @@ form button {
   outline: none;
   border: none;
   border-radius: 5px;
-  background: linear-gradient(180deg, #4480ff 0%, #115dfc 50%, #0550ed 100%);
-  box-shadow: 0 0.5px 0.5px #efefef, 0 1px 0.5px rgba(239, 239, 239, 0.5);
+  background: linear-gradient(180deg, #4480ff 0%, 
+                              #115dfc 50%, 
+                              #0550ed 100%);
+  box-shadow: 0 0.5px 0.5px #efefef, 
+              0 1px 0.5px rgba(239, 239, 239, 0.5);
   font-size: 14px;
   font-weight: 600;
   color: #fff;
